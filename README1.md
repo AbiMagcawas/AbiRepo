@@ -1,3 +1,0 @@
-# DEMO
-
-THIS IS TEST REPO
